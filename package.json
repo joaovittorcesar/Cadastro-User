@@ -1,0 +1,15 @@
+{
+  "name": "api-teste",
+  "version": "1.0.0",
+  "description": "Site teste api pra mostrar martinha",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "João Vittor Cesar",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
